@@ -59,6 +59,9 @@ Once the development server is running, you can:
 - **Make reservations**: Use the booking page to reserve a table at the restaurant.
 - **Explore specials**: Check out the specials section to see the latest offers.
 
+![little-lemon](https://github.com/user-attachments/assets/59be4419-1ede-4bd9-a387-a7025959a026)
+
+
 ## Contributing
 
 Contributions to the Little Lemon app are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
